@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态打字机效果标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kitaro+%E7%BB%AE%E5%A4%AA%E9%83%8E;Trader+%7C+Developer+%7C+Learner;Python+%E2%9D%A4%EF%B8%8F+Java+%7C+%E8%84%B1%E4%BA%A7%E5%8D%8A%E8%AF%BB%E4%B9%A6%E4%B8%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kitaro+%E7%BB%AE%E5%A4%AA%E9%83%8E;Quant+Trader+%2B+Developer;Always+Learning+%E2%9C%A8)](https://github.com/Kitaro-Loked)
 
 <!-- 三月七主题装饰线 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:F472B6,100:FB923C&height=150&section=header&text=&fontSize=0" width="100%"/>
@@ -31,6 +31,14 @@ class Kitaro:
         return ["三月七", "宵宫", "代码", "交易", "学习新东西 ✨"]
 ```
 
+<!-- 工作状态 -->
+<div align="center">
+
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&labelColor=1e293b)](mailto:yongkaifeng432@gmail.com)
+[![Available for Collaboration](https://img.shields.io/badge/Available%20for-Collaboration-blue?style=for-the-badge&labelColor=1e293b)](https://github.com/Kitaro-Loked)
+
+</div>
+
 <!-- 技术栈 -->
 ## 🛠️ Tech Stack
 
@@ -51,7 +59,6 @@ class Kitaro:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e293b" alt="Docker"/>
 </p>
 
-<!-- 交易相关 -->
 ### Trading & Data
 <p align="center">
   <img src="https://img.shields.io/badge/Quant-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1e293b" alt="Quant"/>
@@ -59,32 +66,40 @@ class Kitaro:
   <img src="https://img.shields.io/badge/Automation-95E1D3?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=1e293b" alt="Automation"/>
 </p>
 
+<!-- 精选项目 -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| 📊 Quantitative Trading System | 自主开发的量化交易策略框架与回测系统 | Python, Pandas, NumPy | 🔄 Active |
+| 💼 Java Backend Services | 微服务架构的后端系统实践 | Java, Spring, Docker | 📚 Learning |
+| 🤖 Data Automation Tools | 数据采集与自动化处理工具集 | Python, Automation | ✨ Improving |
+
+</div>
+
 <!-- GitHub 统计 -->
 ## 📊 GitHub Stats
 
 <div align="center">
   
   <!-- 主统计卡片 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kitaro-Loked&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=F472B6&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kitaro-Loked&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=F472B6&text_color=c9cacc&count_private=true"/>
   
   <!-- 语言统计 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitaro-Loked&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitaro-Loked&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9cacc"/>
 
 </div>
 
 <!-- 连续贡献 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitaro-Loked&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=F472B6&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=F472B6&sideNums=38BDF8" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitaro-Loked&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=F472B6&fire=FB923C&currStreakLabel=38BDF8" width="95%"/>
 </div>
 
 <!-- 贡献图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kitaro-Loked&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=F472B6&point=FB923C" width="95%"/>
-</div>
-
-<!-- 二次元装饰分割线 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,50:F472B6,100:FB923C&height=50&section=footer&text=✨%20%E4%B8%89%E6%9C%88%E4%B8%83%20%C3%97%20%E5%AE%B5%E5%AE%AB%20%E2%9C%A8&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
 <!-- 当前状态 -->
@@ -100,6 +115,18 @@ class Kitaro:
 
 </div>
 
+<!-- 合作与交流 -->
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+💡 **量化交易策略交流** - 分享市场洞察与交易理论  
+🔗 **Java 后端项目合作** - 系统设计与微服务架构  
+📚 **算法学习伙伴** - 数据结构、算法与竞技编程  
+🌱 **开源项目贡献** - 一起打造高质量工具和库
+
+</div>
+
 <!-- 联系方式 -->
 ## 📫 Connect With Me
 
@@ -107,6 +134,7 @@ class Kitaro:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/Kitaro-Loked)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b)](mailto:yongkaifeng432@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b)](https://linkedin.com/in/kitaro-loked)
 
 </div>
 
